@@ -1,5 +1,5 @@
 {
-    "force": false,
+    "force": true,
     "zh": "1.修复Electron版本打包失败问题以及小bug <br>2.修复移动端翻译错误和ios免签可能失败的问题<br>3.桌面端Electron版本支持打印功能",
     "en": "1. Fixed the issue of Electron version packaging failure and minor bugs <br>2. Fixed translation errors on mobile devices and potential issues with iOS signature exemption <br>3. Added print function support for the desktop Electron version",
     "ja": "1. Electronバージョンのパッケージング失敗問題および小バグの修正<br>2. モバイル端末での翻訳エラーとiOSの無署名可能失敗問題の修正<br>3. デスクトップ版Electronバージョンに印刷機能のサポート",
